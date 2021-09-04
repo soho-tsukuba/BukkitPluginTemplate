@@ -1,8 +1,8 @@
-package me.tsukuba.soho.plugin.chat
+package me.tsukuba.soho.plugin.CHANGE_ME
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class DiscordChatter: JavaPlugin() {
+class Main: JavaPlugin() {
     override fun onEnable() {
         super.onEnable()
     }
